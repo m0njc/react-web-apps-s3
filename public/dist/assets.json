@@ -1,0 +1,9 @@
+{
+  "main": {
+    "js": "http://localhost:3000/dist/main.js?d4caf576f7bcae1c3207"
+  },
+  "": {
+    "js": "http://localhost:3000/dist/0.js?41f970a263d3141ba790",
+    "json": "http://localhost:3000/dist/215453cb05d229ddf6ff.hot-update.json"
+  }
+}
